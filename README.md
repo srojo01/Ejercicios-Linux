@@ -1,7 +1,11 @@
 # Ejercicios-Linux
 Introducción de comandos
 Ejercicios comandos Linux
+
+
 1.Listar todos los archivos del directorio bin.
+
+
 2.Listar todos los archivos del directorio tmp.
 
 
