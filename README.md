@@ -1,15 +1,15 @@
 # Ejercicios-Linux
 Introducción de comandos
 Ejercicios comandos Linux
-Listar todos los archivos del directorio bin.
-Listar todos los archivos del directorio tmp.
+1.Listar todos los archivos del directorio bin.
+2.Listar todos los archivos del directorio tmp.
 
 
 
-Listar todos los archivos del directorio etc que empiecen por t en orden inverso.
+3.Listar todos los archivos del directorio etc que empiecen por t en orden inverso.
 
 
-Listar todos los archivos del directorio dev que empiecen por tty y tengan 5 caracteres.
+4.Listar todos los archivos del directorio dev que empiecen por tty y tengan 5 caracteres.
 
 
 Listar todos los archivos del directorio dev que empiecen por tty y acaben en 1,2,3 ó 4.
